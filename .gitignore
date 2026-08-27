@@ -1,0 +1,6 @@
+node_modules/
+.env
+.env.*
+data/
+private-docs/
+assets/certificates/
